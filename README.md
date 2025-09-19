@@ -41,6 +41,7 @@ List the key features:
 - Payload / dropping mechanism  
 - GPS & autonomous navigation  
 - Long-range communication
+- Object Detection
 
 ---
 
